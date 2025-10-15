@@ -1,0 +1,19 @@
+# Dependencias para el Extractor de Datos de Suspensión de Assetto Corsa
+# 
+# Este proyecto utiliza principalmente librerías estándar de Python
+# No se requieren dependencias externas adicionales
+
+# Python >= 3.7 requerido para:
+# - ctypes (incluido en Python estándar)
+# - mmap (incluido en Python estándar) 
+# - json (incluido en Python estándar)
+# - time (incluido en Python estándar)
+# - signal (incluido en Python estándar)
+# - datetime (incluido en Python estándar)
+# - os (incluido en Python estándar)
+# - sys (incluido en Python estándar)
+
+# Opcional para análisis posterior de datos:
+# pandas>=1.3.0
+# matplotlib>=3.5.0
+# numpy>=1.21.0
